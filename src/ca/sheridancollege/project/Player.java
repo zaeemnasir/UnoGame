@@ -10,10 +10,6 @@ package ca.sheridancollege.project;
  * @author dancye, 2018
  */
 
-    //This is a try to push 
-//hellow
-//adios
-//hello
 public abstract class Player 
 {
     private String playerID; //the unique ID for this player
