@@ -10,6 +10,7 @@ package ca.sheridancollege.project;
  * @author dancye, 2018
  */
 //Commit # 2
+//Commit # 3
 public abstract class Player 
 {
     private String playerID; //the unique ID for this player
